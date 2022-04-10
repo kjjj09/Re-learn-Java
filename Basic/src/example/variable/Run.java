@@ -8,5 +8,4 @@ public class Run {
 		//var.initVariable();
 		var.changeValue();
 	}
-
 }
